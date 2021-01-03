@@ -1,0 +1,11 @@
+Copy the code from main.py.
+Open notepad.
+Paste the command and name it main.py
+WARNING: Please do not make any changes on the main.py that you have created!
+Click enter.
+Install start.exe.
+Create a folder (name it what ever you want).
+Paste main.py and start.exe in the folder that you just created.
+Make sure that you install miniconda.
+Open command prompt run it on administrator.
+Copy this "pip install opencv-python".
